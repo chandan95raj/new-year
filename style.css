@@ -7,7 +7,7 @@
 	--color-2: #2a9a9f;
 	--color-3: #f1b211;
 	--color-4: #e83611;
-	--color-5: #f9002f;
+	--color-5: #ff0009;
 }
 
 .mywrapper {
@@ -113,7 +113,7 @@
 }
 
 .new {
-	color: #FF0066;
+	color: #ff0009;
 	border: 5px solid green;
 }
 
